@@ -7,13 +7,21 @@ h1{
     font-style: bold;
     font-size: 60px;
 }
-#slogan{
-    font-style: italic;
-    font-family: 'Dancing Script', cursive;
+div{
+    
+}
+#title_bg{
+    background-image: url("springs.jpg");
 }
 #title{
     width: 750px;
     background-color: blue;
     margin: auto;
 }
+#slogan{
+    font-style: italic;
+    font-family: 'Dancing Script', cursive;
+}
+
+
 
