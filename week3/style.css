@@ -5,10 +5,8 @@ body{
 }
 h1{
     font-style: bold;
+    font-family: Helvetica;
 }
 #slogan{
     font-style: italic;
-}
-p{
-    display: block;
 }
