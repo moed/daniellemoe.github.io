@@ -1,6 +1,7 @@
 body{
     text-align: center;
-}
-h1{
     color: white;
+}
+#slogan{
+    font-style: italic;
 }
