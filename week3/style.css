@@ -12,6 +12,7 @@ h1{
     font-family: 'Dancing Script', cursive;
 }
 div{
-    
+    width: 800px;
+    background-color: yellow;
 }
 
