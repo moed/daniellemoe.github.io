@@ -1,15 +1,14 @@
 body{
     text-align: center;
+    font-family: Helvetica;
     background: black;
     color: white;
 }
 h1{
     font-style: bold;
-    font-family: Helvetica;
 }
 #slogan{
     font-style: italic;
+    font-family: 'Dancing Script', cursive;
 }
-p{
-    font-family: Helvetica;
-}
+
