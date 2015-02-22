@@ -12,7 +12,7 @@ div{
 }
 #title{
     width: 750px;
-    position: center;
+    margin-left: 200px
     /*background-color: blue;*/
 }
 #slogan{
@@ -27,7 +27,7 @@ div{
 }
 #content{
 	margin-top: 100px;
-	margin-left: 200px;
+	margin-left: 100px;
 	margin-right: 800px;
 	background-color: #C2589A;
 }
