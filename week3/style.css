@@ -7,7 +7,7 @@ h1{
     font-style: bold;
     font-size: 80px;
     font-family: "brush script std"; 
-    margin: auto;
+    margin: 50px auto;
 }
 div{ 
 }
@@ -19,12 +19,14 @@ div{
     font-style: italic;
     position: center;
 }
-#content{
+#content_bg{
 	background-image: url("springs2.jpg");
 	background-repeat: no-repeat;
     height: 800px;
     margin: 100px;
 }
-
+#content{
+	margin-left: 100px;
+}
 
 
