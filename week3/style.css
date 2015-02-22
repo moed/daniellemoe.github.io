@@ -26,11 +26,16 @@ div{
     margin: 100px;
 }
 #content{
-	margin-top: 100px;
-	margin-left: 100px;
-	margin-right: 800px;
+	margin-top: 200px;
+	margin-left: 200px;
+	margin-right: 200px;
 	background-color: #C2589A;
-	position: center;
+}
+h4{
+
 }
 
+ul{
+
+}
 
