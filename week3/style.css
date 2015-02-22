@@ -22,11 +22,13 @@ div{
 #content_bg{
 	background-image: url("springs2.jpg");
 	background-repeat: no-repeat;
+	border-style: solid;
+	border-color: black;
     height: 800px;
     margin: 100px;
 }
 #content{
-	margin-left: 100px;
+	margin-left: 200px;
 }
 
 
