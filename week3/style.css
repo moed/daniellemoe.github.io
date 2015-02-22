@@ -1,11 +1,12 @@
 body{
-	font-family: "lucinda sans"
+	font-family: helvetica;
     background: black;
     color: white;
 }
 h1{
     font-style: bold;
     font-size: 60px;
+    font-family: "brush script std"; 
 }
 div{
     
