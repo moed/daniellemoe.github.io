@@ -5,7 +5,7 @@ body{
 }
 h1{
     font-style: bold;
-    font-size: 60px;
+    font-size: 80px;
     font-family: "brush script std"; 
 }
 div{
@@ -13,7 +13,7 @@ div{
 }
 #title_bg{
     background-image: url("springs2.jpg");
-    background-position: fill;
+    background-position: center;
     background-repeat: no-repeat;
     height: 800px;
 }
