@@ -7,6 +7,7 @@ h1{
     font-style: bold;
     font-size: 80px;
     font-family: "brush script std"; 
+    position: center;
 }
 div{
     
@@ -23,12 +24,13 @@ div{
 }
 #slogan{
     font-style: italic;
+    position: center;
 }
 #content{
 	background-image: url("springs2.jpg");
 	background-repeat: no-repeat;
     height: 800px;
-    margin: auto;
+    margin: 100px;
 }
 
 
