@@ -26,11 +26,12 @@ div{
     margin: 100px;
 }
 #content{
+	margin-top: 100px;
 	margin-left: 200px;
-	margin-right: 600px;
+	margin-right: 800px;
 	background-color: #C2589A;
-	padding-top: 100px;
-	padding-right: 100px;
+	padding-right: 50px;
+	padding-left: 50px
 }
 
 
