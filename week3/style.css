@@ -7,12 +7,12 @@ h1{
     font-style: bold;
     font-size: 80px;
     font-family: "brush script std"; 
-    margin: 50px auto;
 }
 div{ 
 }
 #title{
     width: 750px;
+    margin: 200px auto;
     /*background-color: blue;*/
 }
 #slogan{
@@ -29,6 +29,7 @@ div{
 }
 #content{
 	margin-left: 200px;
+	background-color: #C2589A;
 }
 
 
