@@ -7,7 +7,6 @@ h1{
     font-style: bold;
     font-size: 80px;
     font-family: "brush script std"; 
-    position: center;
 }
 div{
     
@@ -17,6 +16,7 @@ div{
     background-position: center;
     background-repeat: no-repeat;
     height: 800px;
+    margin: auto;
 }
 /*#title{
     width: 620px;
@@ -25,7 +25,6 @@ div{
 }
 #slogan{
     font-style: italic;
-    position: left;
 }
     
 
