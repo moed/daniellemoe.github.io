@@ -12,7 +12,6 @@ div{
 }
 #title{
     width: 750px;
-    margin: 200px auto;
     /*background-color: blue;*/
 }
 #slogan{
@@ -30,8 +29,6 @@ div{
 	margin-left: 200px;
 	margin-right: 800px;
 	background-color: #C2589A;
-	padding-right: 50px;
-	padding-left: 50px
 }
 
 
