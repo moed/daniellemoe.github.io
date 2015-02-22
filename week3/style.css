@@ -12,21 +12,24 @@ div{
     
 }
 #title_bg{
-    background-image: url("springs2.jpg");
-    background-position: center;
     background-repeat: no-repeat;
     height: 800px;
     margin: auto;
 }
 #title{
-    width: 620px;
+    width: 650px;
     /*background-color: blue;*/
     padding: 200;
 }
 #slogan{
     font-style: italic;
 }
-    
+#content{
+	background-image: url("springs2.jpg");
+	background-repeat: no-repeat;
+    height: 800px;
+    margin: auto;
+}
 
 
 
