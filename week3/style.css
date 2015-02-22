@@ -27,8 +27,10 @@ div{
 }
 #content{
 	margin-left: 200px;
-	margin-right: 200px;
+	margin-right: 600px;
 	background-color: #C2589A;
+	padding-top: 100px;
+	padding-right: 100px;
 }
 
 
