@@ -26,20 +26,15 @@ div{
     margin: 100px;
 }
 #content{
-	margin-top: 200px;
+	margin-top: 100px;
 	margin-left: 200px;
 	margin-right: 100px;
 	padding-top: 100px;
 	padding-bottom: 100px;
 	padding-left: 200px;
-	background-color: #C2589A;
-}
-p{
-	background-image: url("springs2.jpg");
-	background-repeat: no-repeat;
-    height: 800px;
-    margin: 100px;
+	/*background-color: #C2589A;*/
 }
 #contact_me{
 	background-color: #A3FFFD;
+	font-weight: bold;
 }
