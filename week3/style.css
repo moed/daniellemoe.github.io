@@ -32,9 +32,9 @@ div{
 	padding-top: 100px;
 	padding-bottom: 100px;
 	padding-left: 200px;
-	/*background-color: #C2589A;*/
+	background-color: #C2589A;
 }
 #contact_me{
-	background-color: #A3FFFD;
+	/*background-color: #A3FFFD;*/
 	font-weight: bold;
 }
