@@ -12,7 +12,7 @@ div{
 }
 #title_bg{
     background-image: url("springs.jpg");
-    width: 100%;
+    width: fill;
     height: 303px;
 }
 #title{
