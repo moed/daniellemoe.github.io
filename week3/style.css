@@ -1,5 +1,5 @@
 body{
-    font-family: Helvetica;
+    font-family: 'Dancing Script', cursive;
     background: black;
     color: white;
 }
@@ -23,8 +23,8 @@ div{
 }
 #slogan{
     font-style: italic;
-    font-family: 'Dancing Script', cursive;
 }
+    
 
 
 
