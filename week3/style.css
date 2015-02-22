@@ -7,6 +7,7 @@ h1{
     font-style: bold;
     font-size: 80px;
     font-family: "brush script std"; 
+    position: center;
 }
 div{
     
@@ -24,6 +25,7 @@ div{
 }
 #slogan{
     font-style: italic;
+    position: left;
 }
     
 
