@@ -12,6 +12,7 @@ div{
 }
 #title{
     width: 750px;
+    position: center;
     /*background-color: blue;*/
 }
 #slogan{
