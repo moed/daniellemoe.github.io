@@ -1,26 +1,19 @@
 body{
 	font-family: helvetica;
-    background: black;
+    background: #38AD99;
     color: white;
 }
 h1{
     font-style: bold;
     font-size: 80px;
     font-family: "brush script std"; 
-    position: center;
-}
-div{
-    
-}
-#title_bg{
-    background-repeat: no-repeat;
-    height: 800px;
     margin: auto;
 }
+div{ 
+}
 #title{
-    width: 650px;
+    width: 750px;
     /*background-color: blue;*/
-    padding: 200;
 }
 #slogan{
     font-style: italic;
