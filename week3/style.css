@@ -18,10 +18,10 @@ div{
     height: 800px;
     margin: auto;
 }
-/*#title{
+#title{
     width: 620px;
-    background-color: blue;
-    padding: 100;*/
+    /*background-color: blue;*/
+    padding: 100;
 }
 #slogan{
     font-style: italic;
