@@ -1,12 +1,12 @@
 body{
-	font-family: helvetica;
+	font-family: 'Merriweather', serif;
     background: #38AD99;
     color: white;
 }
 h1{
     font-style: bold;
     font-size: 80px;
-    font-family: "brush script std"; 
+    font-family: 'Londrina Shadow', cursive; 
 }
 div{ 
 }
