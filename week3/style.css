@@ -22,12 +22,6 @@ div{
 }
 section{
 }
-#content_bg{
-	background-image: url("springs2.jpg");
-	background-repeat: no-repeat;
-    height: 800px;
-    margin: 100px;
-}
 #content{
 	margin: 150px; 900px, 50px, 50px;
 	background-color: #C2589A;
