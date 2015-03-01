@@ -31,11 +31,10 @@ section{
 #content{
 	margin-top: 100px;
 	margin-left: 200px;
-	/*margin-right: 100px;*/
+	margin-right: 100px;
 	padding-top: 75px;
 	padding-bottom: 75px;
 	padding-left: 100px;
-	padding-right: 10px;
 	background-color: #C2589A;
 }
 #contact_me{
