@@ -6,12 +6,12 @@ body{
 h1{
     font-style: bold;
     font-size: 80px;
-    font-family: 'Oxygen', san-serif; 
+    font-family: 'Open Sans', sans-serif; 
 }
 div{ 
 }
 #title{
-    width: 800px;
+    width: 850px;
     margin-left: 200px
     /*background-color: blue;*/
 }
