@@ -29,9 +29,7 @@ section{
     margin: 100px;
 }
 #content{
-	margin-top: 200px;
-	margin-left: 300px;
-	margin-right: 400px;
+	margin-top: 200px; 350px, 200px, 250px;
 	background-color: #C2589A;
 }
 #contact_me{
