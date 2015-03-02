@@ -22,6 +22,8 @@ div{
 section{
 }
 #content{
+	width: 400px;
+	height: 200px;
 	margin: 100px 500px 50px 500px;
 	
 }
