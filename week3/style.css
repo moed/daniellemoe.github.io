@@ -1,7 +1,7 @@
 body{
 	font-family: 'Merriweather', serif;
     background: #A3FFFF;
-    color: white; 
+    color: gray;
 }
 h1{
     font-style: bold;
@@ -22,11 +22,12 @@ div{
 section{
 }
 #content{
-	margin: 150px 900px 50px 150px;
+	margin: auto; 
+	
 }
 #contact_me{
 	/*background-color: #A3FFFD;*/
 	font-weight: bold; 
 	font-style: italic;
-	margin: 0px 0px 0px 500px;
+	margin: auto;
 }
