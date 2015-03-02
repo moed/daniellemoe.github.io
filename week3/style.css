@@ -17,7 +17,7 @@ div{
 }
 #slogan{
     font-style: italic;
-    font-size: 20px;
+    font-size: 3em;
     margin:100px 0px 50px 500px;
 }
 section{
@@ -26,13 +26,13 @@ section{
 	width: 900px;
 	height: 200px;
 	margin: 100px 500px 50px 500px;
-	font-size: 3em;
+	font-size: 2em;
 	
 }
 #contact_me{
 	/*background-color: #A3FFFD;*/
 	font-weight: bold; 
 	font-style: italic;
-	font-size: 3em;
+	font-size: 1.5em;
 	margin: auto;
 }
