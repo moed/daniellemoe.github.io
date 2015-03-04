@@ -1,0 +1,39 @@
+body{
+	font-family: 'Merriweather', serif;
+ /*   background-image: url(http://www.wallpaperup.com/uploads/wallpapers/2013/01/31/32136/b4406f0b8cd0ad7a821c3ca9ef513176.jpg), 100%;*/
+    	color: black;
+}
+h1{
+    font-style: bold;
+    font-size: 80px;
+    font-family: 'Open Sans', sans-serif; 
+}
+div{ 
+}
+#title{
+    width: 850px;
+    margin-left: 200px
+    /*background-color: blue;*/
+}
+#slogan{
+    font-style: italic;
+    font-size: 3em;
+    line-height: 60px;
+    margin:50px 0px 50px 500px;
+}
+section{
+}
+#content{
+	width: 100%;
+	height: 200px;
+	margin: 100px 500px 50px 150px;
+	font-size: 2em;
+	
+}
+#contact_me{
+	/*background-color: #A3FFFD;*/
+	font-weight: bold; 
+	font-style: italic;
+	font-size: 1.5em;
+	margin: auto;
+}
