@@ -30,6 +30,9 @@ section{
 	font-size: 2em;
 	
 }
+ul{
+	display: inline;
+}
 #contact_me{
 	/*background-color: #A3FFFD;*/
 	font-weight: bold; 
