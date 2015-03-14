@@ -1,7 +1,6 @@
 body{
 	font: Georgia;
 	color: Purple;
-	display: inline;
 	font-size: 18px;
 }
 h1{
@@ -13,7 +12,6 @@ p{
 }
 ul{
 	font-size: 24px;
-	display: inline block;
 	margin: 0 auto;
 }
 h2{
