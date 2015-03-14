@@ -4,8 +4,8 @@ body{
 }
 header{
 	background-image: url(https://raw.githubusercontent.com/moed/moed.github.io/master/week5/background2.jpg);
-	width: 788px;
-	height: 591px;
+	width: 100%;
+	height: 100%;
 }
 h1{
 	margin: 0 auto;
