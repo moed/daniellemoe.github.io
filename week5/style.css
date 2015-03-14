@@ -1,5 +1,5 @@
 body{
-	font: Georgia;
+	font: Times;
 	font-size: 18px;
 }
 header{
@@ -8,7 +8,7 @@ header{
 	height: 900px;
 }
 #title{
-	margin: 100 auto;
+	margin: auto auto;
 }
 h1{
 	font-size: 64px;
