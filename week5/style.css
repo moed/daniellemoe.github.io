@@ -5,6 +5,7 @@ body{
 header{
 	background-image: url(https://raw.githubusercontent.com/moed/moed.github.io/master/week5/background2.jpg);
 	background-postion: center 100%;
+	height: 100%;
 }
 h1{
 	font-size: 64px;
