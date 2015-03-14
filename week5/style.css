@@ -3,6 +3,9 @@ body{
 	color: Purple;
 	font-size: 18px;
 }
+header{
+	background-image: url(https://raw.githubusercontent.com/moed/moed.github.io/master/week5/background2.jpg);
+}
 h1{
 	margin: 0 auto;
 	font-size: 48px;
