@@ -8,16 +8,15 @@ header{
 	height: 700px;
 	background-postion: center;
 }
-h1{
-	margin: 2em;
-	font-size: 64px;
+#header{
+	magrin: 2em auto 0 auto;
+	
 }
-p{
-	margin: auto auto;
+h1{
+	font-size: 64px;
 }
 li{
 	font-size: 24px;
-	margin: auto;
 	display: inline;
 }
 h2{
