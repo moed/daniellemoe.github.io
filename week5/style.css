@@ -9,6 +9,7 @@ body{
 #title{
 	margin: 100 100;
 	text-align: center;
+	background-color: rgba(245,205,224,.5);
 }
 h1{
 	font-size: 64px;
@@ -16,7 +17,6 @@ h1{
 li{
 	margin: 100 100;
 	font-size: 24px;
-	display: inline;
 }
 h2{
 	margin: 100 100;
