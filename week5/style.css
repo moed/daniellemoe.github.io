@@ -7,7 +7,7 @@ body{
 	background-repeat: no-repeat;
 }
 #title{
-	margin: 100 100;
+	margin: 300px;
 	text-align: center;
 	background-color: rgba(245,205,224,.5);
 }
@@ -15,14 +15,14 @@ h1{
 	font-size: 64px;
 }
 li{
-	margin: 100 100;
+	margin: 200px;
 	font-size: 24px;
 }
 h2{
-	margin: 100 100;
+	margin: 100px 100px;
 	font-size: 32px;
 }
 h3{
-	margin: 100 100;
+	margin: 100px 100px;
 	font-size: 30px;
 }
