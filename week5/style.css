@@ -1,6 +1,5 @@
 body{
 	font: Times;
-	text-align: center;
 	display: block;
 	background-image: url(https://raw.githubusercontent.com/moed/moed.github.io/master/week5/background2.jpg);
 	width: 100%;
@@ -8,7 +7,8 @@ body{
 	background-repeat: no-repeat;
 }
 #title{
-	margin: 100 100;	
+	margin: 100 100;
+	text-align: center;
 }
 h1{
 	font-size: 64px;
