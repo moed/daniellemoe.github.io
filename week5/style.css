@@ -9,14 +9,14 @@ body{
 #title{
 	margin: 300px;
 	text-align: center;
-	background-color: rgba(245,205,224,.5);
 }
 h1{
 	font-size: 64px;
 }
 li{
-	margin: 200px;
+	margin: 100px;
 	font-size: 24px;
+	display: inline;
 }
 h2{
 	margin: 100px 100px;
