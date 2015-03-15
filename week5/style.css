@@ -26,12 +26,12 @@ li{
 	margin: 150px;
 }
 h2{
-	margin: 650px 0px 50px;
 	font-size: 58px;
 	text-align: center;
 }
 article{
 	background-color: rgb(255,255,191,.2);
+	margin: 650px 0px 50px;
 }
 h3{
 	margin: 100px 100px;
