@@ -1,10 +1,12 @@
 body{
 	font: Times;
 	font-size: 18px;
+	display: block;
 }
 header{
 	background-image: url(https://raw.githubusercontent.com/moed/moed.github.io/master/week5/background2.jpg);
 	background-size: cover;
+	height: 900px;
 }
 #title{
 	margin: 200px 700px 200px 700px;
