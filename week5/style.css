@@ -8,20 +8,21 @@ body{
 	background-repeat: no-repeat;
 }
 #title{
-	margin: 0 auto;	
+	margin: 100 100;	
 }
 h1{
 	font-size: 64px;
 }
 li{
+	margin: 100 100;
 	font-size: 24px;
 	display: inline;
 }
 h2{
-	margin: auto auto;
+	margin: 100 100;
 	font-size: 32px;
 }
 h3{
-	margin: 0 auto;
+	margin: 100 100;
 	font-size: 30px;
 }
