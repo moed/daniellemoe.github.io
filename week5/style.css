@@ -7,11 +7,15 @@ body{
 	background-repeat: no-repeat;
 }
 #title{
-	margin: 300px;
+	margin: 200px;
 	text-align: center;
 }
 h1{
 	font-size: 64px;
+}
+p{
+	font-size: 24px;
+	font-style: bold;
 }
 li{
 	margin: 100px;
