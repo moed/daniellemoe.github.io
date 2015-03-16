@@ -36,7 +36,7 @@ h2{
 }
 article{
 	background-color: rgb(255,255,191,.2);
-	margin: 650px 0px 50px;
+	margin: 600px 0px 50px;
 }
 #purchase{
 	float: left;
@@ -47,6 +47,9 @@ article{
 	float: left;
 	padding-left: 20px;
 	clear: both;
+}
+p{
+	padding: 20px;
 }
 h3{
 	margin: 200px 0px 0px;
