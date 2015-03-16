@@ -39,14 +39,15 @@ article{
 #purchase{
 	float: left;
 	padding-left: 20px;
+	clear: both;
+}
+#care{
+	float: left;
+	padding-left: 20px;
+	clear: both;
 }
 h3{
 	margin: 100px 100px;
 	font-size: 36px;
 	font-family: 'Cinzel Decorative', cursive;
 }
-#care{
-	float: left;
-	padding-left: 20px;
-}
-
