@@ -35,7 +35,7 @@ h2{
 }
 article{
 	background-color: rgba(255,255,191,.7);
-	margin: 300px 0px 50px;
+	margin: 450px 0px 50px;
 }
 #purchase{
 	text-align: center;
@@ -57,11 +57,11 @@ h2{
 	margin: 10px 0px;	
 }
 p{
-	padding: 20px;
+	padding: 15px;
 	line-height: 50px;
 }
 h3{
-	margin: 200px;
+	margin: 400px;
 	font-size: 36px;
 	font-family: 'Cinzel Decorative', cursive;
 }
