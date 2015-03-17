@@ -40,22 +40,22 @@ article{
 }
 #purchase{
 	text-align: center;
-	margin: 0px 0px 50px;
+	margin: 0px 0px 30px;
 }
-	
 #unicorns{
-	float: left;
-	padding: 20px;
+	float: center;
+	padding: 100px;
 	clear: both;
 }
 #care{
 	padding: 20px;
-	margin: 0px 0px 50px;
+	margin: 0px 0px 30px;
 	text-align: center;
 }
 p{
 	padding: 20px;
 	text-align: center;
+	float: left; 
 }
 h3{
 	margin: 200px 0px 0px;
