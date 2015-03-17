@@ -49,14 +49,13 @@ article{
 	clear: both;
 }
 #care{
-	float: left;
 	padding: 20px;
-	clear: both;
 	margin: 0px 0px 50px;
 	text-align: center;
 }
 p{
 	padding: 20px;
+	text-align: center;
 }
 h3{
 	margin: 200px 0px 0px;
