@@ -39,8 +39,13 @@ article{
 	margin: 250px 0px 50px;
 }
 #purchase{
+	text-align: center;
+	margin: 0px 0px 50px;
+}
+	
+#unicorns{
 	float: left;
-	padding-left: 20px;
+	padding: 20px;
 	clear: both;
 }
 #care{
