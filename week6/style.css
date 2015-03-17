@@ -26,6 +26,7 @@ p{
 #main_nav{
 	margin: 50px;
 	font-size: 48px;
+	text-align: center;
 }
 h2{
 	font-size: 58px;
@@ -34,7 +35,7 @@ h2{
 }
 article{
 	background-color: rgba(255,255,191,.9);
-	margin: 200px 0px 50px;
+	margin: 260px 0px 50px;
 }
 #purchase{
 	text-align: center;
