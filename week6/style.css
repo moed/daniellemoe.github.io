@@ -35,16 +35,19 @@ h2{
 }
 article{
 	background-color: rgba(255,255,191,.7);
-	margin: 3em 0em 1em;
+	margin: 5em 0em 1em;
 }
-#purchase{
+/*#purchase{
 	text-align: center;
 	margin: 0px 0px 15px;
-}
+}*/
 #unicorns{
 	float: center;
-	padding-left: 100px;
+	/*padding-left: 100px;*/
 	clear: both;
+}
+p{
+	
 }
 #care{
 	padding: 15px;
@@ -60,8 +63,8 @@ p{
 	padding: 15px;
 	line-height: 50px;
 }
-/*h3{
-	margin: 400px;
-	font-size: 36px;
+h3{
+	margin: 350px;
+	font-size: 50px;
 	font-family: 'Cinzel Decorative', cursive;
-}*/
+}
