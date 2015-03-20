@@ -81,22 +81,22 @@ p{
 }
 /* unvisited link */
 a:link {
-    color: #FF0000;
+    color: #EBD9EB;
 }
 
 /* visited link */
 a:visited {
-    color: #00FF00;
+    color: #EBD9EB;
 }
 
 /* mouse over link */
 a:hover {
-    color: #FF00FF;
+    color: #FFFFE7;
 }
 
 /* selected link */
 a:active {
-    color: #0000FF;
+    color: #FFFFE7;
 }
 h2{
 	font-size: 58px;
