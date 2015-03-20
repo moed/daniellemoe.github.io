@@ -58,7 +58,7 @@ body{
 	text-align: center;
 }
 h1{
-	font-size: 64px;
+	font-size: 90px;
 	font-family: 'Cinzel Decorative', cursive;
 	font-weight: 700;
 	color: 483259;
@@ -75,13 +75,13 @@ p{
 	display: inline;
 }*/
 #main_nav{
-	margin: 1em 0em 1em;
+	margin: 2em;
 	font-size: 48px;
 	text-align: center;
 }
 /* unvisited link */
 a:link {
-    color: #EBD9EB;
+    color: #8B00C9;
 }
 
 /* visited link */
@@ -96,7 +96,7 @@ a:hover {
 
 /* selected link */
 a:active {
-    color: #FFFFE7;
+    color: #8B00C9;
 }
 h2{
 	font-size: 58px;
@@ -105,7 +105,7 @@ h2{
 }
 article{
 	background-color: rgba(255,255,191,.7);
-	margin: 10em 0em 1em;
+	margin: 20em 0em 1em;
 }
 /*#purchase{
 	text-align: center;
@@ -121,7 +121,7 @@ p{
 }
 #care{
 	padding: 15px;
-	margin: 0px 0px 20px;
+	margin: 10em;
 	text-align: center;
 	float: left;
 	clear: both;
