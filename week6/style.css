@@ -75,7 +75,7 @@ p{
 	display: inline;
 }*/
 #main_nav{
-	margin: 80px 0px 0px;
+	margin: 100px 0px 0px;
 	font-size: 48px;
 	text-align: center;
 }
@@ -105,7 +105,7 @@ h2{
 }
 article{
 	background-color: rgba(255,255,191,.7);
-	margin: 5em 0em 1em;
+	margin: 10em 0em 1em;
 }
 /*#purchase{
 	text-align: center;
