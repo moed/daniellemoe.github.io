@@ -75,29 +75,32 @@ p{
 	display: inline;
 }*/
 #main_nav{
-	margin: 7em;
-	font-size: 48px;
+	margin: 6em;
+	font-size: 60px;
 	text-align: center;
-	text-decoration: none;
 }
 /* unvisited link */
 a:link {
-    color: #EB574E;
+    color: #F8C4BB;
+    text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: #EB574E;
+    color: #F8C4BB;
+    text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
     color: #FFFFE7;
+    text-decoration: none;
 }
 
 /* selected link */
 a:active {
-    color: #EB574E;
+    color: #F8C4BB;
+    text-decoration: none;
 }
 h2{
 	font-size: 58px;
@@ -106,21 +109,24 @@ h2{
 }
 article{
 	background-color: rgba(255,255,191,.7);
-	margin: 20em 0em 1em;
+	margin: 30em 0em 10em;
+	padding: 10em;
 }
 /*#purchase{
 	text-align: center;
 	margin: 0px 0px 15px;
 }*/
 #unicorns{
-	float: right;
+	float: left;
+	width: 1em;
+	height: 4em;
+	margin: 2em;
 	clear: both;
 }
 p{
 	
 }
 #care{
-	padding: 15px;
 	margin: 10em;
 	text-align: center;
 	float: left;
