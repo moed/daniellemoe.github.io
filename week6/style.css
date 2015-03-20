@@ -103,6 +103,9 @@ a:active {
     color: #FFFFE7;
     text-decoration: none;
 }
+article{
+	margin: 200px 80px ;
+}
 h2{
 	font-size: 58px;
 	font-family: 'Cinzel Decorative', cursive;
@@ -115,8 +118,7 @@ h2{
 #unicorns{
 	float: left;
 	width: 1200px;
-	height: 1200px;
-	margin: 200px 60px 20px;
+	height: 1000px;
 	padding:20px;
 	clear: both;
 }
