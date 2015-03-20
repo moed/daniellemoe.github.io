@@ -139,3 +139,8 @@ h3{
 	font-size: 50px;
 	font-family: 'Cinzel Decorative', cursive;
 }
+#Contact-us{
+	background-image: url (https://raw.githubusercontent.com/moed/moed.github.io/master/week5/background4.jpg);
+	width: 100%;
+	height: 500px;
+}
