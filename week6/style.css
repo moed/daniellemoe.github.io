@@ -36,7 +36,7 @@ p{
 	width: 500px;
 }
 #main_nav{
-	margin: 5em 1em 2em 35em;
+	margin: 15em 1em 1em 45em;
 	font-size: 30px;
 	font-weight: 700;
 	line-height: 2.5em;
@@ -94,7 +94,6 @@ h2{
 }
 #care{
 	height: 1100px;
-	margin: 10px;
 	padding: 100px;
 	background-color: rgba(251, 113, 95, .8);
 }
