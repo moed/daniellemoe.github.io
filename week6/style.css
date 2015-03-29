@@ -5,6 +5,9 @@ body{
 	padding: 0;
 	color: #000000;
 }
+.wrapper{
+	width: 100%;
+}
 header{
 	background: url(https://raw.githubusercontent.com/moed/moed.github.io/master/week5/background4.jpg) no-repeat center center fixed;
 	background-size: cover;
