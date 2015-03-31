@@ -15,12 +15,7 @@ header{
 	height: 150vh;
 	margin: 0;
 }
-#title{
-/*	margin: 5em;*/
-/*	padding: 15em;*/
-	text-align: center;
-	position: relative;
-}
+
 h1{
 	font-size: 90px;
 	font-family: 'Philosoper', serif;
