@@ -13,14 +13,16 @@ nav{
 	text-decoration: none;
 	font-size: 1em;
 /*	width: 50%;*/
-	margin: 1em 5em;
+	margin: 1em 1em;
+}
+li{
+	display: inline;
 }
 
 h1{
 	font-size: 4em;
 	font-style: bold;
 	color: #3B43FF;
-	display: inline;
 }
 .wrapper{
 	
