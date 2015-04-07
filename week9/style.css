@@ -46,12 +46,12 @@ h3{
 }*/
 article{
 	font-size: 1em;
-	float: left;
+/*	float: left;*/
 	width: 25%;
 	position: center;
 }
 #soaps{
-	float: left;
+/*	float: left;*/
 	position: center;
 	width: 50%;
 }
