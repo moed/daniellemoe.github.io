@@ -6,8 +6,8 @@ body{
 #landing{
 	background: url(https://raw.githubusercontent.com/moed/moed.github.io/master/week9/barsofsoap.jpg) no-repeat center center;
 /*	background-size: cover;*/
-/*	width: 80%;
-	height: 80vh;*/
+	width: 80%;
+	height: 80vh;
 }
 nav{
 	text-decoration: none;
@@ -34,7 +34,7 @@ aside{
 	position: fixed;
 }
 h3{
-	font-size: 1em;
+	font-size: 1.5em;
 	font-style: bold;
 }
 /*nav{
@@ -47,6 +47,7 @@ article{
 /*	float: left;*/
 	width: 25%;
 	position: center;
+	margin: 5em 
 }
 #soaps{
 /*	float: left;*/
