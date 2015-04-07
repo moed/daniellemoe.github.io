@@ -1,10 +1,11 @@
 body{
 	font-size: 16px;
 	font-family: 'Lora', serif;
+	background-image: url() repeat-x center center;
 }
 #landing{
-	background-image: url(https://raw.githubusercontent.com/moed/moed.github.io/master/week9/waterbubblesbackground.jpg) repeat-x center center;
-	background-size: cover;
+	/*background-image: url(https://raw.githubusercontent.com/moed/moed.github.io/master/week9/waterbubblesbackground.jpg) repeat-x center center;*/
+/*	background-size: cover;*/
 	width: 100%;
 	height: 100vh;
 }
