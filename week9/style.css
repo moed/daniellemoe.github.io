@@ -11,8 +11,8 @@ body{
 }
 nav{
 	text-decoration: none;
-	font-size: 2.5em;
-	width: 50%;
+	font-size: 1.5em;
+/*	width: 50%;*/
 	margin: 10em 2em;
 }
 li{
@@ -27,7 +27,7 @@ h1{
 	
 	background: #FEFFE5;
 	width: 100%;
-	height: 100vh;
+/*	height: 100vh;*/
 }
 aside{
 	background-color: #7F5E6B;
@@ -62,7 +62,7 @@ article{
 }
 .contact{
 	background: #FFD7B1 cover;
-	height: 100vh;
+/*	height: 100vh;*/
 	width: 80%;
 }
 ul{
@@ -70,7 +70,8 @@ ul{
 	font-size: 2em;
 }
 li{
+	display: block;
 	padding: 2em;
 	background-color: #FEFFE5;
-	color: #3B43FF; 
+/*	color: #3B43FF; */
 }
