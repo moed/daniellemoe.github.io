@@ -5,14 +5,13 @@ body{
 }
 #landing{
 	background: url(https://raw.githubusercontent.com/moed/moed.github.io/master/week9/barsofsoap.jpg) no-repeat center center;
-/*	background-size: cover;*/
 	width: 80%;
 	height: 80vh;
 }
 nav{
 	text-decoration: none;
 	font-size: 1em;
-/*	width: 50%;*/
+	width: 50%;
 	margin: 1em 1em;
 }
 li{
@@ -33,7 +32,7 @@ h1{
 aside{
 	background-color: #7F5E6B;
 	width: 25%;
-	height: 100vh;
+	height: 100%;
 	position: fixed;
 }
 h3{
