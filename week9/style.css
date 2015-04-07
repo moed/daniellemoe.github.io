@@ -6,8 +6,8 @@ body{
 #landing{
 	background: url(https://raw.githubusercontent.com/moed/moed.github.io/master/week9/barsofsoap.jpg) no-repeat center center;
 /*	background-size: cover;*/
-	width: 80%;
-	height: 80vh;
+/*	width: 80%;
+	height: 80vh;*/
 }
 nav{
 	text-decoration: none;
