@@ -4,29 +4,34 @@ body{
 	background: #FEFFE5;
 }
 #landing{
-	background: url(https://raw.githubusercontent.com/moed/moed.github.io/master/week9/barsofsoap.jpg) no-repeat center center;
+	background: url(https://raw.githubusercontent.com/moed/moed.github.io/master/week9/barsofsoap.jpg) no-repeat center center fixed;
+/*	background-size: cover;*/
 	width: 80%;
-	height: 80vh;
+	height: 400px;
+	margin: 0 auto;
 }
 nav{
 	text-decoration: none;
 	font-size: 1em;
 	width: 50%;
-	margin: 1em 1em;
+	margin: 1em auto;
 }
 li{
-	display: inline;
+	display: inline-block;
+	margin: 1em;
 }
 
 h1{
 	font-size: 4em;
 	font-style: bold;
 	color: #3B43FF;
+	margin: 1.5em auto;
+	text-align: center;
 }
 .wrapper{
-	
 	background: #FEFFE5;
-	width: 100%;
+	width: 80%;
+	margin: 0 auto;
 /*	height: 100vh;*/
 }
 aside{
@@ -47,9 +52,17 @@ h3{
 article{
 	font-size: 1em;
 /*	float: left;*/
-	width: 25%;
+	width: 33.33%;
 	position: center;
-	margin: 5em 
+	margin: 5em 0;
+}
+h2{
+	font-size: 2em;
+	margin: 1em 0;
+}
+p{
+	font-size: 1em;
+	line-height: 1.618em;
 }
 #soaps{
 /*	float: left;*/
@@ -61,8 +74,8 @@ article{
 	width: 75%;
 	position: center;
 }
-.contact{
-	background: #FFD7B1 cover;
+footer{
+	background: #FFD7B1;
 /*	height: 100vh;*/
 	width: 80%;
 }
